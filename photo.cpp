@@ -54,7 +54,7 @@ int main() {
     	}
     	if(best==-1) dp[i]=-1;
     	else dp[i]= best+1;
-    	i--;
+    	i--; 
     }
     
     
