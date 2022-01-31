@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_CXX_COMPILER=/usr/local/bin/g++-10 -G "CodeBlocks - Unix Makefiles" /Users/shiftyblock/CLionProjects/NekoHW
+2.3-ControllingCompanies = 2.3-ControllingCompanies.cpp
+2.4-Tamworth = 2.4-Tamworth.cpp
+CSES-CommonDivisors = CSES-CommonDivisors.cpp
+CSES-CountingDivisors = CSES-CountingDivisors.cpp
+January21.D3.Problem1 = January21.D3.Problem1.cpp
+January21.D3.WIPL = January21.D3.WIPL.cpp
+ModularArithmetic = ModularArithmetic.cpp
+NonPrimeFactors = NonPrimeFactors.cpp
+O-Matching = O-Matching.cpp
+PrimeGenerator = PrimeGenerator.cpp
+main = main.cpp
+sad = sad.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shiftyblock/CLionProjects/NekoHW/cmake-build-debug
