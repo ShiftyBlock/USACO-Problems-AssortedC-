@@ -1,4 +1,0 @@
-/Users/shiftyblock/CLionProjects/USACO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/shiftyblock/CLionProjects/USACO/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shiftyblock/CLionProjects/USACO/cmake-build-debug/CMakeFiles/GuardMark.dir
-/Users/shiftyblock/CLionProjects/USACO/cmake-build-debug/CMakeFiles/PCH.dir

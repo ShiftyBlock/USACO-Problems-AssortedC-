@@ -1,9 +1,0 @@
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/concom.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/zerosum.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/moneys.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/fracdec.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/nocows.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/prefix.dir
-/Users/shiftyblock/CLionProjects/trainingUSACO/cmake-build-debug/CMakeFiles/trainingUSACO.dir
