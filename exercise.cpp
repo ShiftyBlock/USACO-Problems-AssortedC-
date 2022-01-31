@@ -20,60 +20,12 @@ void setIO(string name, int submit) {
     }
     
 }
-int N, M;
-const int MAXN=2e6+1;
-int dp[MAXN];
+
 int main() {
-    setIO("photo",0);
-    
-    cin>>N>>M;
-    v<pii> photo;
-    rep(i,0,M){
-    }
-    
+    setIO("", 0);
+
+    map<int,int> m;
+    m.insert(auto (2,3));
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
