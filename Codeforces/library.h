@@ -1,0 +1,6 @@
+#ifndef CODEFORCES_LIBRARY_H
+#define CODEFORCES_LIBRARY_H
+
+void hello();
+
+#endif //CODEFORCES_LIBRARY_H

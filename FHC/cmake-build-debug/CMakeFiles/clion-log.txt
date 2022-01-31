@@ -1,0 +1,24 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_CXX_COMPILER=/usr/local/bin/g++-11 -G "CodeBlocks - Unix Makefiles" /Users/shiftyblock/CLionProjects/FHC
+CowntactTracing = CowntactTracing.cpp
+DAVIDStuckcode = DAVIDStuckcode.cpp
+R2-A1 = R2-A1.cpp
+R2-B = R2-B.cpp
+R3-B = R3-B.cpp
+berr = berr.cpp
+blob = blob.cpp
+cereal = cereal.cpp
+hi = hi.cpp
+main = main.cpp
+printer = printer.cpp
+race = race.cpp
+reststops = reststops.cpp
+rset = rset.cpp
+socdist = socdist.cpp
+stuckrut = stuckrut.cpp
+sus = sus.cpp
+swapswap = swapswap.cpp
+triangle = triangle.cpp
+whereami = whereami.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shiftyblock/CLionProjects/FHC/cmake-build-debug

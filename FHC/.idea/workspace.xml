@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FHC" targetName="hi" />
+      <config projectName="FHC" targetName="triangle" />
+      <config projectName="FHC" targetName="CowntactTracing" />
+      <config projectName="FHC" targetName="reststops" />
+      <config projectName="FHC" targetName="race" />
+      <config projectName="FHC" targetName="R2-A1" />
+      <config projectName="FHC" targetName="printer" />
+      <config projectName="FHC" targetName="cereal" />
+      <config projectName="FHC" targetName="main" />
+      <config projectName="FHC" targetName="berr" />
+      <config projectName="FHC" targetName="swapswap" />
+      <config projectName="FHC" targetName="whereami" />
+      <config projectName="FHC" targetName="R2-B" />
+      <config projectName="FHC" targetName="sus" />
+      <config projectName="FHC" targetName="R3-B" />
+      <config projectName="FHC" targetName="blob" />
+      <config projectName="FHC" targetName="stuckrut" />
+      <config projectName="FHC" targetName="socdist" />
+      <config projectName="FHC" targetName="PCH" />
+      <config projectName="FHC" targetName="rset" />
+      <config projectName="FHC" targetName="DAVIDStuckcode" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-D CMAKE_CXX_COMPILER=/usr/local/bin/g++-11" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aca39dcb-5d65-4903-b3c1-b5041fe69a85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1y15PW5ODvbFAeFC3q4qEtAYoX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager" selected="CMake Application.cereal">
+    <configuration name="CowntactTracing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="CowntactTracing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="CowntactTracing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAVIDStuckcode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="DAVIDStuckcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="DAVIDStuckcode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCH" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="PCH" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R2-A1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="R2-A1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="R2-A1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R2-B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="R2-B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="R2-B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R3-B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="R3-B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="R3-B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="berr" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="berr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="berr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blob" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="blob" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="blob">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cereal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="cereal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="cereal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="hi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="hi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="printer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="printer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="race" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="race" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="race">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reststops" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="reststops" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="reststops">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rset" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="rset" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="rset">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="socdist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="socdist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="socdist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stuckrut" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="stuckrut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="stuckrut">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sus" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="sus" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="sus">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swapswap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="swapswap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="swapswap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="triangle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whereami" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FHC" TARGET_NAME="whereami" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FHC" RUN_TARGET_NAME="whereami">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.berr" />
+      <item itemvalue="CMake Application.blob" />
+      <item itemvalue="CMake Application.cereal" />
+      <item itemvalue="CMake Application.CowntactTracing" />
+      <item itemvalue="CMake Application.DAVIDStuckcode" />
+      <item itemvalue="CMake Application.hi" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.PCH" />
+      <item itemvalue="CMake Application.printer" />
+      <item itemvalue="CMake Application.R2-A1" />
+      <item itemvalue="CMake Application.R2-B" />
+      <item itemvalue="CMake Application.R3-B" />
+      <item itemvalue="CMake Application.race" />
+      <item itemvalue="CMake Application.reststops" />
+      <item itemvalue="CMake Application.rset" />
+      <item itemvalue="CMake Application.socdist" />
+      <item itemvalue="CMake Application.stuckrut" />
+      <item itemvalue="CMake Application.sus" />
+      <item itemvalue="CMake Application.swapswap" />
+      <item itemvalue="CMake Application.triangle" />
+      <item itemvalue="CMake Application.whereami" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca39dcb-5d65-4903-b3c1-b5041fe69a85" name="Default Changelist" comment="" />
+      <created>1631406230112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631406230112</updated>
+      <workItem from="1631406231499" duration="24000" />
+      <workItem from="1631406268139" duration="608000" />
+      <workItem from="1631406885220" duration="646000" />
+      <workItem from="1632013053552" duration="6570000" />
+      <workItem from="1632599239504" duration="4008000" />
+      <workItem from="1637535385312" duration="134000" />
+      <workItem from="1637535590306" duration="5434000" />
+      <workItem from="1637594050240" duration="517000" />
+      <workItem from="1638140916040" duration="4632000" />
+      <workItem from="1638253148629" duration="542000" />
+      <workItem from="1638721394630" duration="37000" />
+      <workItem from="1638744982687" duration="453000" />
+      <workItem from="1638860552671" duration="692000" />
+      <workItem from="1638861321464" duration="669000" />
+      <workItem from="1639329469122" duration="10454000" />
+      <workItem from="1640309899822" duration="11000" />
+      <workItem from="1640310012513" duration="4000" />
+      <workItem from="1641148518161" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R2-A1.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R2-A1.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R3-B.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R3-B.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R3-B.cpp</url>
+          <line>72</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/R3-B.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/race.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/berr.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/berr.cpp</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/berr.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/berr.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stuckrut.cpp</url>
+          <line>57</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/rset.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

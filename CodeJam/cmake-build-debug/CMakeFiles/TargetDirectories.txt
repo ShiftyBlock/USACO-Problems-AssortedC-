@@ -1,0 +1,11 @@
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/main.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1B-2021-temp.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1B-2021-subtransmutation.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/A1.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1A2021-AppendSort.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1B-2021-DigitBlocks.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/PCH.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1A2008-Milkshakes.dir
+/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/1A2008-Minimum.dir

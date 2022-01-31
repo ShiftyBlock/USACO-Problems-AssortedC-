@@ -1,0 +1,1 @@
+/usr/local/bin/g++-11  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/R2-B.dir/R2-B.cpp.o  -o R2-B 

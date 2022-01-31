@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CodeJam"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-temp">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-temp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-temp"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-temp/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-temp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-temp/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-subtransmutation">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-subtransmutation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-subtransmutation"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-subtransmutation/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-subtransmutation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-subtransmutation/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A1">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/A1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 A1"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A1/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/A1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 A1/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2021-AppendSort">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2021-AppendSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2021-AppendSort"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2021-AppendSort/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2021-AppendSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2021-AppendSort/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-DigitBlocks">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-DigitBlocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-DigitBlocks"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1B-2021-DigitBlocks/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1B-2021-DigitBlocks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1B-2021-DigitBlocks/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PCH">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/PCH.dir/PCH.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 PCH"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PCH/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/PCH.dir/PCH.objlib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 PCH/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2008-Milkshakes">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2008-Milkshakes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2008-Milkshakes"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2008-Milkshakes/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2008-Milkshakes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2008-Milkshakes/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2008-Minimum">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2008-Minimum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2008-Minimum"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1A2008-Minimum/fast">
+				<Option output="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/1A2008-Minimum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/x86_64-apple-darwin19"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/../../../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include"/>
+					<Add directory="/usr/local/Cellar/gcc/10.2.0/lib/gcc/10/gcc/x86_64-apple-darwin19/10.2.0/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 1A2008-Minimum/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1A2008-Milkshakes.cpp">
+			<Option target="1A2008-Milkshakes"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1A2008-Minimum.cpp">
+			<Option target="1A2008-Minimum"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1A2021-AppendSort.cpp">
+			<Option target="1A2021-AppendSort"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1B-2021-DigitBlocks.cpp">
+			<Option target="1B-2021-DigitBlocks"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1B-2021-subtransmutation.cpp">
+			<Option target="1B-2021-subtransmutation"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/1B-2021-temp.cpp">
+			<Option target="1B-2021-temp"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/A1.cpp">
+			<Option target="A1"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/PCH.dir/cmake_pch.hxx">
+			<Option target="main"/>
+			<Option target="1B-2021-temp"/>
+			<Option target="1B-2021-subtransmutation"/>
+			<Option target="A1"/>
+			<Option target="1A2021-AppendSort"/>
+			<Option target="1B-2021-DigitBlocks"/>
+			<Option target="PCH"/>
+			<Option target="1A2008-Milkshakes"/>
+			<Option target="1A2008-Minimum"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/CMakeFiles/PCH.dir/cmake_pch.hxx.cxx">
+			<Option target="PCH"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/cmake-build-debug/pch.cpp">
+			<Option target="PCH"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/shiftyblock/CLionProjects/CodeJam/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
